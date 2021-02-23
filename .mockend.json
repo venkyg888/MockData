@@ -1,0 +1,39 @@
+{
+  "status": "success",
+  "report_type": "payment-processed",
+  "record_count": "4",
+  "data": [
+    {
+      "payee_name": "ABC Company",
+      "amount": "$2.00",
+      "Check_no": "5787",
+      "process_date": "30",
+      "scheduling_user": "Minne Mouse",
+      "approving_user": "Shelia Cooley"
+    },
+    {
+      "payee_name": "ABC Company",
+      "amount": "$2.00",
+      "Check_no": "5787",
+      "process_date": "30",
+      "scheduling_user": "Minne Mouse",
+      "approving_user": "Shelia Cooley"
+    },
+    {
+      "payee_name": "ABC Company",
+      "amount": "$2.00",
+      "Check_no": "5787",
+      "process_date": "30",
+      "scheduling_user": "Minne Mouse",
+      "approving_user": "Shelia Cooley"
+    },
+    {
+      "payee_name": "ABC Company",
+      "amount": "$2.00",
+      "Check_no": "5787",
+      "process_date": "30",
+      "scheduling_user": "Minne Mouse",
+      "approving_user": "Shelia Cooley"
+    }
+  ]
+}
